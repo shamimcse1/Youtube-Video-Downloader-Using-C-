@@ -1,0 +1,16 @@
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\obj\Debug\Video_Downloader_Update.Form1.resources
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\obj\Debug\Video_Downloader_Update.Properties.Resources.resources
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\obj\Debug\Video Downloader Update.csproj.GenerateResource.Cache
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\obj\Debug\Video Downloader Update.TrustInfo.xml
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\obj\Debug\Video Downloader Update.exe
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\obj\Debug\Video Downloader Update.pdb
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\bin\Debug\Video Downloader Update.exe.config
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\bin\Debug\Video Downloader Update.exe.manifest
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\bin\Debug\Video Downloader Update.application
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\bin\Debug\Video Downloader Update.exe
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\bin\Debug\Video Downloader Update.pdb
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\bin\Debug\libvideo.dll
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\obj\Debug\Video Downloader Update.exe.manifest
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\obj\Debug\Video Downloader Update.application
+D:\Visual Studio Project 2018\Video Downloader Update\Video Downloader Update\obj\Debug\Video Downloader Update.csprojResolveAssemblyReference.cache
